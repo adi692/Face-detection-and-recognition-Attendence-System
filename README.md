@@ -1,4 +1,4 @@
-Face recognition and detection
+Face recognition and detection system helps to manage student attendeces.
 
 
 
